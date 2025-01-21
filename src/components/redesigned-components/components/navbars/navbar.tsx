@@ -28,7 +28,7 @@ const Navbar = () => {
   return (
     <div className="">
       <div
-        className={`nav-container bg-bg-navigation z-50 md:flex hidden  min-h-[60px] max-w-[97%]  mx-auto transition-all duration-100  top-3 fixed w-full left-1/2 -translate-x-1/2 ${
+        className={`nav-container bg-bg-navigation  z-50 md:flex hidden  min-h-[60px] max-w-[97%]  mx-auto transition-all duration-100   fixed w-full left-1/2 -translate-x-1/2 ${
           isHovered ? "rounded-t-2xl" : "rounded-2xl"
         }`}
       >

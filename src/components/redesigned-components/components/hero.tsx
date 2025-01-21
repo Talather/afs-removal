@@ -42,7 +42,7 @@ const Hero = () => {
           top: 0,
           left: 0,
           width: "100%",
-          height: "80%",
+          height: "90%",
           opacity: "2",
           backgroundImage: "url('/assets/brand/hero.jpeg')",
           backgroundSize: "cover",
