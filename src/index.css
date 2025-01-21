@@ -238,3 +238,19 @@ input[type="number"] {
   background-color: rgb(255 176 213);
   font-weight: 600;
 }
+
+@media (max-width: 1100px) {
+  .card-content {
+    width: 100% !important;
+    transform: translateY(0) !important;
+  }
+  .card-testimonial {
+    display: none;
+    width: 100% !important;
+    transform: translateY(0) !important;
+  }
+  .card-div {
+    padding: 0 2rem;
+    flex-direction: column !important;
+  }
+}
