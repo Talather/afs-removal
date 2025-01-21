@@ -6,7 +6,7 @@ import {
   CardHeader,
   CardTitle,
 } from "../components/ui/card";
-import ShinyButton from "../components/redesigned-components/components/shiny-button";
+// import ShinyButton from "../components/redesigned-components/components/shiny-button";
 
 const JobDetails = () => {
   const job = useOutletContext<JobDescription>();
