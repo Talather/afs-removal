@@ -20,7 +20,7 @@ const JoinToday = ({
             href="/contact-us"
             className="w-fit mx-auto rounded-full px-7 py-2"
           >
-            Get Quote
+            CALL TO ACTION
           </ShinyButton>
         </div>
       </MaxWidthContainer>
